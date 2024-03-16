@@ -1,0 +1,19 @@
+{
+  "name": "ferdi-tea",
+  "version": "1.1.4",
+  "description": "bebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferdifer12/ferdi-tea"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdifer12/ferdi-tea/issues"
+  },
+  "homepage": "https://github.com/ferdifer12/ferdi-tea#readme"
+}
